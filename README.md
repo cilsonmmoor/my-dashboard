@@ -1,6 +1,7 @@
 # my-dashboard
 
-Simple my-dashboard example
+## Description
+This is a simple dashboard example.
 
 ## Features
 - User-friendly interface
