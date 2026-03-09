@@ -18,3 +18,5 @@ Clone the repository and open index.html in your browser.
 - Add authentication
 - Integrate with APIs
 - Enhance UI/UX
+- Implement dark mode
+- Add real-time data visualization
