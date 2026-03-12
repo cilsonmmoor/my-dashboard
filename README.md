@@ -1,23 +1,20 @@
-# my-dashboard
+# My Dashboard
 
-## Description
-This is a simple dashboard example.
+This is a simple dashboard example showcasing various widgets and functionalities.
 
 ## Features
-- User-friendly interface
+- Interactive widgets
 - Responsive design
 
-## Technologies
+## Tech Stack
 - HTML
 - CSS
 - JavaScript
 
 ## Usage
-Clone the repository and open index.html in your browser.
+1. Clone the repository.
+2. Open `index.html` in your browser.
 
 ## Future Plans
-- Add authentication
-- Integrate with APIs
-- Enhance UI/UX
-- Implement dark mode
-- Add real-time data visualization
+- Add user authentication.
+- Integrate with backend APIs.
